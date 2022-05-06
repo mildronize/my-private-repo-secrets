@@ -1,8 +1,8 @@
 # General
-subscription_name: subscription_name
-subscription_id: xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx
-resource_group: rgresource_group
-location: Central US
+subscription_name: Azure Subscription
+subscription_id: 29523625-6fa5-4d9a-86bc-da000544be7d
+resource_group: rg-thadaw-demo-multi-app
+location: East Asia
 # Azure Key vault
 keyvault_name: kv-github-thadaw
 keyvault_key: sops-key
